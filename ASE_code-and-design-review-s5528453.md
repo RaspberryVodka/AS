@@ -20,7 +20,9 @@ Recognition and classification of objects in pictures by building convolutional 
 3. Use the generated regions to produce the final candidate region proposals 
 
 Reference:
+
     https://towardsdatascience.com/convolutional-neural-networks-explained-9cc5188c4939
+
     https://towardsdatascience.com/r-cnn-fast-r-cnn-faster-r-cnn-yolo-object-detection-algorithms-36d53571365e
 
 ### Datasets
