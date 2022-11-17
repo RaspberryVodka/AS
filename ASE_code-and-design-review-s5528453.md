@@ -5,7 +5,7 @@
 Identify the objects contained within the picture and describe the objects contained in the picture through text. My aims and outcomes are to accurately identify the objects in the picture and to describe the main objects contained in the picture.
 
 ## Detailed Description
-#### Convolutional neural network architectures.
+### Convolutional neural network architectures.
 
 Unlike conventional neural networks, the neurons in each layer of a convolutional neural network are arranged in 3 dimensions: width, height and depth.
 
@@ -22,7 +22,7 @@ Recognition and classification of objects in pictures by building convolutional 
 Reference:
     https://towardsdatascience.com/convolutional-neural-networks-explained-9cc5188c4939
     https://towardsdatascience.com/r-cnn-fast-r-cnn-faster-r-cnn-yolo-object-detection-algorithms-36d53571365e
-    
+
 ### Datasets
 
 The dataset I am using is CIFAR-10
